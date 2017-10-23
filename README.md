@@ -1,6 +1,6 @@
 #NestPay® Girogate
 
-Alternatif Ödeme Sistemleri Entegrasyon Dokümanı
+İşbankası Yurtdışı Alternatif Ödeme Sistemleri Entegrasyon Dokümanı
 
 GiroGate ödeme yöntemi, işyerlerine NestPay Ödeme Geçidi altyapısını kullanarak GiroGate sistemini üzerinden ödeme alma olanağı sağlar.
 
